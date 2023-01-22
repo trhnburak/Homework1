@@ -1,5 +1,4 @@
 import Foundation
-
 var city: String = "Istanbul"
 var country: String = "Turkey"
 var phone: String = "555-555-5555"
